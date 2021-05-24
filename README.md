@@ -4,7 +4,7 @@ with transactional credit rating system.
 SOFO token will empower
 E-commerce sellers and micro-factories.
 
-Website: https://sofo.tech
+Website: https://sofo.tech <br>
 Telegram: https://t.me/sofotoken
 Twitter: https://twitter.com/SOFO_TECH
 Medium: https://sofotoken.medium.com/
